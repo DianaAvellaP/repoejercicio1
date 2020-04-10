@@ -1,0 +1,20 @@
+Proyecto avance.
+
+commit 1d50f04597ee45aa9d28267470e34a00e9811beb
+Author: Diana Avella 
+
+
+    redes sociales
+
+commit 4d483c90539e0e193ed8361c64a533e70dbcb50d
+Author: Diana Avella 
+
+    perfil web
+
+commit 34eda761e5d407b106ae9065eeedb43a0a47364d
+Author: Diana Avella 
+
+    foto de perfil y nombre
+
+commit ef3b3c08006afd86c6fec1690ca94a1c4d3c1e64
+Author: Diana Avella 
